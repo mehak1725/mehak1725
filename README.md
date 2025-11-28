@@ -1,5 +1,5 @@
 Name: Mehak Kaur
-Education: 3rd-year B.Tech CSE student specializing in Data Science
+Education: 4TH-year B.Tech CSE student specializing in Data Science
 Passionate About: Analyzing data, building models, and solving real-world problems
 
 Interests:-
